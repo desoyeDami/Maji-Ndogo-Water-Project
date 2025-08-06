@@ -4,6 +4,8 @@ This project focuses on creating and communicating data-driven insights to addre
 
 ## 🔷 Page 1: National Overview (President’s View)
 
+![National Dashboard](Dashboard%20images/National.jpg)
+
 ### 👤 **User: President Aziza Naledi**
 
 This page is designed specifically for President Naledi to get a **national snapshot** of Maji Ndogo’s water crisis, identify **priority areas**, and make informed decisions on **funding and project deployment**.
