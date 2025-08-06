@@ -1,6 +1,7 @@
 # Maji-Ndogo-Water-Project
 This project focuses on creating and communicating data-driven insights to address the water crisis in Maji Ndogo. The primary goal is to improve people's lives by upgrading water sources and enable decision-makers, such as President Aziza Naledi and provincial leaders, to make informed strategic actions.
 
+
 ## 🔷 Page 1: National Overview (President’s View)
 
 ### 👤 **User: President Aziza Naledi**
@@ -37,39 +38,6 @@ To summarize:
 * 🧍‍♂️ **Total Population**: **27.6 million**
 * 🛠️ **Total Water Projects**: **25,398**
 * 💰 **Total Budget Required**: ₦146,137,375
-
----
-
-### 🗺️ **Provincial Summary**
-
-| **Province** | **Population** | **Projects Needed** | **Budget (₦)** |
-| ------------ | -------------- | ------------------- | -------------- |
-| Akatsi       | 5,993,306      | 4,963               | ₦31,355,075    |
-| Amanzi       | 5,431,826      | 3,748               | ₦13,428,275    |
-| Hawassa      | 3,843,810      | 4,384               | ₦22,553,325    |
-| Kilimani     | 6,584,764      | 6,700               | ₦39,249,225    |
-| Sokoto       | 5,774,434      | 5,603               | ₦40,151,475    |
-
----
-
-### 🔨 **Improvements Needed (Nationwide)**
-
-| **Improvement Type**          | **Quantity** | **Budget (₦)** |
-| ----------------------------- | ------------ | -------------- |
-| Diagnose local infrastructure | 5,856        | ₦2,554,475     |
-| Drill well                    | 3,379        | ₦38,862,000    |
-| Install 1 tap nearby          | 1,037        | ₦2,862,000     |
-| Install 2 taps nearby         | 307          | ₦1,654,000     |
-| Install 3 taps nearby         | 300          | ₦2,502,000     |
-| Install 4 taps nearby         | 342          | ₦3,760,000     |
-| Install 5 taps nearby         | 308          | ₦4,220,000     |
-| Install 6 taps nearby         | 282          | ₦4,626,000     |
-| Install 7 taps nearby         | 360          | ₦6,895,000     |
-| Install 8 taps nearby         | 760          | ₦16,504,000    |
-| Install RO filter             | 7,093        | ₦39,965,100    |
-| Install UV + RO filter        | 5,374        | ₦22,332,800    |
-
-📝 *Note: “Install X taps nearby” categories are aggregated for better visual clarity in the dashboard.*
 
 ---
 
