@@ -97,6 +97,7 @@ The report is designed to be **interactive and expandable**, with bookmarks, dri
 
 
 ### **Page 2: Sokoto Province — Localized Water Crisis Insights**
+![National Dashboard](Dashboard%20Images/Sokoto.jpg)
 
 This page offers a detailed breakdown of **Sokoto Province**, enabling **provincial leaders and local planners** to assess needs, prioritize actions, and allocate budgets effectively.
 
@@ -144,6 +145,8 @@ This page helps Sokoto leaders:
 ---
 
 ### **Page 3: Kilimani Province — Localized Water Crisis Insights**
+
+![National Dashboard](Dashboard%20Images/Kilimani.jpg)
 
 This page presents a targeted analysis of **Kilimani Province**, supporting **provincial stakeholders and technical teams** with data to guide equitable and impactful water infrastructure improvements.
 
@@ -202,6 +205,8 @@ With Kilimani facing **severe access issues**, this page helps leaders:
 
 ### **Page 4: Hawassa Province — Localized Water Crisis Insights**
 
+![National Dashboard](Dashboard%20Images/Hawassa.jpg)
+
 This page delivers a focused analysis of **Hawassa Province**, helping **policy makers and development partners** understand where water-related investments are most needed.
 
 #### **Key Performance Indicators**
@@ -258,6 +263,7 @@ With only **27% basic water access**, Hawassa Province urgently needs **diverse 
 ---
 
 ### **Page 5: Amanzi Province — Localized Water Crisis Insights**
+![National Dashboard](Dashboard%20Images/Amanzi.jpg)
 
 This final page offers a strategic snapshot of **Amanzi Province**, supporting planners and stakeholders with localized data to **maximize the impact of limited resources**.
 
@@ -318,6 +324,8 @@ Amanzi is closer than most provinces to achieving water access for all — but i
 ---
 
 ### **Page 6: Akatsi Province — Localized Water Crisis Insights**
+
+![National Dashboard](Dashboard%20Images/Akatsi.jpg)
 
 This page provides a strategic overview of **Akatsi Province**, where water access challenges persist, especially in its **large rural population**. The data empowers decision-makers to **allocate funds wisely** and identify **high-impact intervention zones**.
 
