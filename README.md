@@ -1,4 +1,9 @@
-# Maji-Ndogo-Water-Project
+# 💧 Maji Ndogo Water Crisis Dashboard
+
+**Project by Emmanuel** | **ALX Data Analysis Program**
+
+This Power BI project was developed as part of the [ALX Data Analysis Program](https://www.alxafrica.com/programme/data-analytics/), focusing on analyzing and solving the water access crisis in the fictional region of Maji Ndogo.
+
 This project focuses on creating and communicating data-driven insights to address the water crisis in Maji Ndogo. The primary goal is to improve people's lives by upgrading water sources and enable decision-makers, such as President Aziza Naledi and provincial leaders, to make informed strategic actions.
 
 
