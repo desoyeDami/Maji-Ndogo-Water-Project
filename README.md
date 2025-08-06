@@ -347,7 +347,7 @@ Amanzi is closer than most provinces to achieving water access for all — but i
 
 ---
 
-### **Page 4: Akatsi Province — Localized Water Crisis Insights**
+### **Page 6: Akatsi Province — Localized Water Crisis Insights**
 
 This page provides a strategic overview of **Akatsi Province**, where water access challenges persist, especially in its **large rural population**. The data empowers decision-makers to **allocate funds wisely** and identify **high-impact intervention zones**.
 
@@ -409,7 +409,7 @@ Akatsi has a relatively high basic water access rate, but its **huge rural popul
 
 ---
 
-### **Page 5: Summary & Strategic Recommendations — A Path Forward for Maji Ndogo**
+### **Summary & Strategic Recommendations — A Path Forward for Maji Ndogo**
 
 This final page consolidates **nationwide insights** from all provinces—**Sokoto, Kilimani, Hawassa, Amanzi, and Akatsi**—and offers **clear, data-driven recommendations** for tackling the water crisis in **Maji Ndogo**.
 
