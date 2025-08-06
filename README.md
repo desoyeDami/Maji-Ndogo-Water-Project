@@ -4,7 +4,7 @@ This project focuses on creating and communicating data-driven insights to addre
 
 ## 🔷 Page 1: National Overview (President’s View)
 
-![National Dashboard](Dashboard%20images/National.jpg)
+![National Dashboard](Dashboard%20Images/National.jpg)
 
 ### 👤 **User: President Aziza Naledi**
 
